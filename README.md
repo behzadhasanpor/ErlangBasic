@@ -1,18 +1,17 @@
 # ErlangBasic
 <h1>Erlang Cuncurrent & Distributed program</h1>
-<hr>
+<hr/>
 <h1>PURPOSE</h1>
-this rep. is a simple concurrent project base on erlang <br>
-it just has educational aspect!(for begginers) <br>
-there it can be improve by your hands and become better ,i hope>br>
+this rep. is a simple concurrent project based on erlang <br/>
+it just have educational aspect!(for begginers) <br/>
+there it can be improve by your hands and become better ,i hope<br/>
 there is a picture that i prepare,and can introduce project plans :
 <br>
 <img src='https://image.ibb.co/kAzbYT/Screenshot_from_2018_06_05_08_10_40.png' />
-<br>
-<h2> HOW TO USE <h2>
-you can use it in diffrent ways,but i choose one: <br>
-
-you can having three terminal opened as : 
+<br/>
+<h2> HOW TO USE </h2>
+you can use it in diffrent ways,but i choose one: <br/>
+having three terminal opened as : 
 <ul>
 <li><pre>  $ erl -sname  server 
 (server@your_hostname)> c(server).
